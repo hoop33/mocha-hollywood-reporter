@@ -1,0 +1,47 @@
+{
+  "name": "mocha-hollywood-reporter",
+  "version": "0.1.0",
+  "description": "A mocha reporter with a Hollywood flair",
+  "keywords": [
+    "mocha",
+    "reporter"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "author": {
+    "name": "Rob Warner",
+    "email": "rwarner@codinginshades.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hoop33/mocha-hollywood-reporter.git"
+  },
+  "main": "lib/hollywood.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "mocha": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-bump": "^0.1.11",
+    "gulp-filter": "^1.0.2",
+    "gulp-git": "^0.5.3",
+    "gulp-jscs": "^1.2.1",
+    "gulp-jshint": "^1.8.5",
+    "gulp-tag-version": "^1.1.0",
+    "gulp-util": "^3.0.1",
+    "jshint-stylish": "^1.0.0",
+    "lodash": "^2.4.1",
+    "request": "^2.45.0",
+    "require-dir": "^0.1.0"
+  }
+}

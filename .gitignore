@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+
+# Added for Cloud9
+.c9
