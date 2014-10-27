@@ -1,0 +1,1 @@
+mocha-hollywood-reporter is a reporter for [mocha](https://github.com/mochajs/mocha), patterned after the mocha-provided `dot` reporter. It was created in honor of [a coworker](https://github.com/robmcguinness).

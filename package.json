@@ -12,10 +12,12 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   ],
-  "author": {
-    "name": "Rob Warner",
-    "email": "rwarner@codinginshades.com"
-  },
+  "authors": [
+    {
+      "name": "Rob Warner",
+      "email": "rwarner@grailbox.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/hoop33/mocha-hollywood-reporter.git"
